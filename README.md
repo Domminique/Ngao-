@@ -3,8 +3,9 @@ Creating an innovative cybersecurity solution on Google Cloud Platform (GCP) can
 
 file:///home/dommy/Screenshot%20from%202023-10-14%2006-38-16.png
 
+![alt text](http://url/to/img.png)
 
-
+file:///home/dommy/Screenshot%20from%202023-10-14%2006-38-16.png
 
 
 
