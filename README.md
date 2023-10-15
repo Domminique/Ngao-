@@ -1,6 +1,13 @@
 # Ngao-
 Creating an innovative cybersecurity solution on Google Cloud Platform (GCP) can be an excellent way to address specific challenges or threats.
 
+file:///home/dommy/Screenshot%20from%202023-10-14%2006-38-16.png
+
+
+
+
+
+
 # Task 1. Preparation
 You will be running a sensor simulator from the training VM. In Lab 1 you manually setup the Pub/Sub components. In this lab several of those processes are automated.
 
